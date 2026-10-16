@@ -41,5 +41,7 @@ public class main {
         else if (!jogador.estaVivo()) System.out.println("Derrota!");
         else System.out.println("Jogo encerrado.");
         scanner.close();
+
+        System.out.println("Teste fork");
     }
 }
